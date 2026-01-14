@@ -7,6 +7,10 @@
         "ip": "43.229.79.123",
         "port": "7777",
         "banner_url": "../assets/image/bg.jpeg",
-        "logo_url": "../assets/image/logo.png"
+        "logo_url": "../assets/image/logo.png",
+        "about": "Redicon Horizon v2.0.1 - มอบความเสถียรและประสิทธิภาพสูงสุดในการเชื่อมต่อ มาร่วมเป็นส่วนหนึ่งของครอบครัวเราได้แล้ววันนี้ มีระบบอำนวยความสะดวกครบครันและสคริปต์ที่ทันสมัยที่สุด",
+        "status": "Online",
+        "site_url": "https://redicon.com",
+        "discord_url": "https://discord.gg/redicon"
     }
 }
