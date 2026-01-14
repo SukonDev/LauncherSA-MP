@@ -1,0 +1,22 @@
+{
+    "quick_links": [
+        {
+            "label": "เข้าร่วมชุมชน Discord",
+            "url": "https://discord.gg/redicon",
+            "icon": "fab fa-discord",
+            "description": "เข้าร่วมห้องแชทเพื่อสอบถามทีมงานโดยตรง"
+        },
+        {
+            "label": "แจ้งปัญหาการเล่น",
+            "url": "https://facebook.com/redicon",
+            "icon": "fas fa-bug",
+            "description": "แจ้งปัญหาผ่าน Inbox ของแฟนเพจ"
+        },
+        {
+            "label": "เติมเงิน/สนับสนุน",
+            "url": "https://redicon.com/donate",
+            "icon": "fas fa-coins",
+            "description": "สนับสนุนเซิร์ฟเวอร์เพื่อการพัฒนาที่ดียิ่งขึ้น"
+        }
+    ]
+}

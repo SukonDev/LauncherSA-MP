@@ -1,0 +1,12 @@
+{
+    "server_info": {
+        "name": "REDICON HORIZON RPG",
+        "version": "v2.0.1",
+        "online": 421,
+        "max_players": 1000,
+        "ip": "43.229.79.123",
+        "port": "7777",
+        "banner_url": "../assets/image/bg.jpeg",
+        "logo_url": "../assets/image/logo.png"
+    }
+}
